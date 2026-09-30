@@ -1,0 +1,20 @@
+# MATLAB / Simulink
+*.asv
+*.slxc
+slprj/
+*.autosave
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
